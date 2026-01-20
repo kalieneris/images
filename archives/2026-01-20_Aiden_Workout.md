@@ -15,13 +15,13 @@ HEAVY UPPER B
 ### pushup_to_down_dog
 - Set 1: 0lbs x 10
 ### incline_db_bench_press
-- Set 1: 34lbs x 8
-- Set 2: 34lbs x 8
-- Set 3: 34lbs x 8
+- Set 1: 38lbs x 8
+- Set 2: 38lbs x 8
+- Set 3: 38lbs x 8
 ### chest_supported_db_row
-- Set 1: 34lbs x 10
-- Set 2: 34lbs x 10
-- Set 3: 34lbs x 10
+- Set 1: 30lbs x 10
+- Set 2: 30lbs x 10
+- Set 3: 30lbs x 10
 ### banded_face_pulls
 - Set 1: 0lbs x 20
 - Set 2: 0lbs x 20
@@ -36,6 +36,8 @@ HEAVY UPPER B
 - Set 3: 34lbs x 12
 ### dead_hang
 - Set 1: 0lbs x 0
+- Set 2: 0lbs x 0
+- Set 3: 0lbs x 0
 ### doorway_pec_stretch
 - Set 1: 0lbs x 0
 - Set 2: 0lbs x 0
