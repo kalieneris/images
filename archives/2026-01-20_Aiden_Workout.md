@@ -12,8 +12,8 @@ UPPER MIX
 - Set 1: 0lbs x 0
 ### incline_db_bench_press
 - Set 1: 30lbs x 10
-- Set 2: 30lbs x 12
-- Set 3: 30lbs x 12
+- Set 2: 30lbs x 11
+- Set 3: 30lbs x 10
 ### chest_supported_db_row
 - Set 1: 30lbs x 12
 - Set 2: 30lbs x 12
@@ -25,11 +25,11 @@ UPPER MIX
 ### banded_lateral_raises
 - Set 1: 0lbs x 15
 - Set 2: 0lbs x 15
-- Set 3: 0lbs x 15
+- Set 3: 0lbs x 10
 ### banded_bicep_curls
 - Set 1: 0lbs x 20
 - Set 2: 0lbs x 20
-- Set 3: 0lbs x 20
+- Set 3: 0lbs x 12
 ### overhead_tricep_stretch
 - Set 1: 0lbs x 0
 - Set 2: 0lbs x 0
@@ -40,4 +40,4 @@ UPPER MIX
 - Set 1: 0lbs x 0
 
 ## Notes
-N/A
+Just barely made it on bench press and rows.
