@@ -38,4 +38,4 @@ Upper Mix
 - Set 1: 0lbs x 60
 
 ## Notes
-NOTES NOTES NOTES and stuff
+N/A
