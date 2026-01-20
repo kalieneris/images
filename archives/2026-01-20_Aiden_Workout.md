@@ -32,8 +32,10 @@ Upper Mix
 - Set 3: 0lbs x 20
 ### overhead_tricep_stretch
 - Set 1: 0lbs x 30
+- Set 2: 0lbs x 30
 ### cross_body_shoulder_stretch
 - Set 1: 0lbs x 30
+- Set 2: 0lbs x 30
 ### deep_breathing
 - Set 1: 0lbs x 60
 
