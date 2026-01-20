@@ -12,7 +12,7 @@ UPPER MIX
 - Set 1: 0lbs x 0
 ### incline_db_bench_press
 - Set 1: 30lbs x 10
-- Set 2: 30lbs x 11
+- Set 2: 30lbs x 12
 - Set 3: 30lbs x 12
 ### chest_supported_db_row
 - Set 1: 30lbs x 12
