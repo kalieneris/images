@@ -17,11 +17,11 @@ HEAVY UPPER B
 ### incline_db_bench_press
 - Set 1: 34lbs x 8
 - Set 2: 34lbs x 8
-- Set 3: 34lbs x 8
+- Set 3: 34lbs x 7
 ### chest_supported_db_row
 - Set 1: 34lbs x 10
-- Set 2: 34lbs x 10
-- Set 3: 34lbs x 10
+- Set 2: 34lbs x 8
+- Set 3: 34lbs x 9
 ### face_pulls
 - Set 1: 0lbs x 20
 - Set 2: 0lbs x 20
@@ -29,11 +29,11 @@ HEAVY UPPER B
 ### banded_lateral_raise
 - Set 1: 0lbs x 15
 - Set 2: 0lbs x 15
-- Set 3: 0lbs x 15
+- Set 3: 0lbs x 13
 ### overhead_db_tricep_extension
 - Set 1: 34lbs x 12
-- Set 2: 34lbs x 12
-- Set 3: 34lbs x 12
+- Set 2: 34lbs x 8
+- Set 3: 34lbs x 7
 ### dead_hang
 - Set 1: 0lbs x 0
 - Set 2: 0lbs x 0
@@ -60,4 +60,6 @@ Note: If grip fails on rows, do not truncate the set. Use a 'hook' grip or brief
 3. Any unusual joint friction in the shoulders during the Incline Press?
 
 ## Athlete Feedback
-N/A
+Yes, definitely faced technical failure during block a. And the DR l tricep dips.
+I'm currently at 83g protein. My post workout drink will add 26g and dinner will add more. Probably won't get all the way to 150 though. 
+Didn't notice any joint friction. Did notice my upper back straining on one rep which clued me on to fix my form before I pulled something.
